@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+.env
+.envrc
+
+# Streamlit Cache
+.streamlit/
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Models and Artifacts
+*.pkl
+*.joblib
+
+# Data
+data/*.csv
+outputs/*.csv
+outputs/*.png
+
+# OS
+.DS_Store
+Thumbs.db
