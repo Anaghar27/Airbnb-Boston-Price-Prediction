@@ -76,6 +76,7 @@ This project presents a comprehensive data science pipeline that analyzes Airbnb
 
 - Airbnb Boston listings dataset from Kaggle  
 - Merged: `listings.csv`, `calendar.csv`, `reviews.csv`
+- Other datsets created for the model training can be saved through the code and further visualized using Tableau
 
 ## 📌 Tools Used
 
